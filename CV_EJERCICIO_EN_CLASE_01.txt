@@ -1,0 +1,4 @@
+10101	3	Diego	LOLO	1500
+5050	3	YAdira	Localk	12000
+1800	1	DiGO	1	1
+1	1	Diego_Areva	1	1
